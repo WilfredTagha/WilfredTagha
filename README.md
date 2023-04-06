@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilfredTagha
 - 👀 I’m interested in Data
 - 🌱 I’m a Data Analyst
--    I'm currently learning ML/AI
+-  🌱  I'm currently learning ML/AI
 - 💞️ I’m looking to collaborate on Data Celaning, Wrangling and Visualization
 
 
